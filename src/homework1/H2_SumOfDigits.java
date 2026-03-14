@@ -1,7 +1,7 @@
 package homework1;
 
 
-public class h2_SumOfDigits {
+public class H2_SumOfDigits {
     public static void main(String[] args) {
         int n = 58; // двузначное число
 

@@ -1,6 +1,6 @@
 package homework1;
 
-public class h3_SumOfDevilDigits {
+public class H3_SumOfDevilDigits {
     public static void main(String[] args) {
         int n = 666; // трёхзначное число Сотоны
 

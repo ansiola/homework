@@ -1,6 +1,6 @@
 package homework1;
 
-public class h6_SwappingNumbers {
+public class H6_SwappingNumbers {
     public static void main(String[] args) {
         int a = 1;
         int b = 2;

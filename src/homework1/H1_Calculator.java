@@ -1,6 +1,6 @@
 package homework1;
 
-public class h1_Calculator {
+public class H1_Calculator {
 public static void main (String[] args) {
     int b = 1;
     int c = 9;

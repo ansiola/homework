@@ -1,6 +1,6 @@
 package homework1;
 
-public class h4_RoundDouble {
+public class H4_RoundDouble {
     public static void main(String[] args) {
         double n = 5.5; // дробное  число
 

@@ -1,6 +1,6 @@
 package homework1;
 
-public class h5_Devision
+public class H5_Devision
 {
     public static void main(String[] args) {
         int q = 23;

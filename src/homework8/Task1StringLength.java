@@ -52,9 +52,8 @@ public class Task1StringLength {
         System.out.println("Ее длина: " + shortest.length() + " символов");
         // .length() возвращает количество символов в строке
 
-        System.out.println("Самая длинная строка: \"" + longest + "\"");
+        System.out.println("Самая длинная строка: " + longest + "\"");
         System.out.println("Ее длина: " + longest.length() + " символов");
-
 
         scanner.close();
     }

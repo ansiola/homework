@@ -44,7 +44,6 @@ public class Task3ShorterThanAverage {
         if (len1 >= average && len2 >= average && len3 >= average) {
             System.out.println("Нет строк, длина которых меньше средней");
         }
-
         scanner.close();
     }
 }

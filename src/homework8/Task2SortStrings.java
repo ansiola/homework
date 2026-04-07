@@ -38,7 +38,6 @@ public class Task2SortStrings {
                 System.out.println((i + 1) + ". \"" + strings[i] +
                         "\" (длина: " + strings[i].length() + " симв.)");
             }
-
             scanner.close();
         }
     }
